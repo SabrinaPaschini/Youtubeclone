@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="youtube-logo.png" alt="YouTube Logo" width="200" height="200">
+  <img src="/youtubePage/src/assets/img/youtube.png" alt="YouTube Logo" width="200" height="200">
 </p>
 
 # Clone Estático do YouTube com Angular
