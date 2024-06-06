@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/youtubePage/src/assets/img/youtube.png" alt="YouTube Logo" width="200" height="200">
-</p>
-
 # Clone Estático do YouTube com Angular
 
 Este projeto é um desafio proposto na plataforma de cursos da DIO (Digital Innovation One), onde o objetivo é criar uma página estática que seja um clone do layout do YouTube, utilizando o framework Angular e a técnica de layout Flexbox.
@@ -17,7 +13,7 @@ Este projeto é um desafio proposto na plataforma de cursos da DIO (Digital Inno
 
 - Layout semelhante ao do YouTube, incluindo a barra de navegação, cabeçalho, seção de vídeos recomendados, etc.
 - Utilização de Flexbox para o layout responsivo e distribuição dos elementos na página.
-- [Adicione aqui qualquer outra funcionalidade implementada no projeto.]
+
 
 ## Executando o Projeto
 
