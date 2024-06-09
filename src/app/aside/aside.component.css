@@ -1,0 +1,31 @@
+.allcontent {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  margin: 2rem;
+  margin-left: 15px;
+  width: 550px;
+
+}
+
+.content2 {
+  display: flex;
+  padding: 1rem;
+}
+
+p {
+  font-family: roboto;
+  font-weight: 400;
+  color: #515151;
+  width: 180px;
+  margin-left: 0.7rem;
+}
+
+.boldtype {
+  margin-left: 0.7rem;
+  width: 180px;
+  font-size: small;
+  color: black;
+  font-weight: 600;
+  font-family: roboto;
+}
