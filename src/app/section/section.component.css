@@ -1,11 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
+.all {
+  justify-content: center;
+  margin-right: 33rem;
+  margin-left: 75px;
+}
+
 .dio {
   width: 800px;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
+  margin-left: 75px;
 }
 
 .txt1 {
+  margin-left: 75px;
   font-family: Roboto;
   font-weight: 600;
   display: flex;
@@ -24,46 +32,58 @@
 .session1 {
   display: flex;
   height: fit-content;
-  
+
   align-items: center;
   height: min-content;
 }
 
 .name p {
-    height: -1rem;
-    
-  }
+  height: -1rem;
+  margin-left: 1rem;
+  margin-top: -1rem;
+}
 
-  .name p:first-child {
-    margin-top: 0; /* Remove a margem superior do primeiro parágrafo */
-    font-weight: 600;
-    font-family: roboto;
-    
-  }
+.name p:first-child {
+  margin-top: 0;
+  font-weight: 600;
+  font-family: roboto;
+}
 .icons {
   width: 1.5rem;
   height: 1.5rem;
   align-self: center;
-  margin: 1rem;
+align-items: center;
+  margin: 0.8rem;
   font-family: roboto;
   font-weight: 400;
 }
 
-.content {
+.content p {
+  width: 450px;
+  color: #515151;
+}
+
+#bold {
+  color: black;
+  font-family: roboto;
+  font-weight: 600;
+  font-weight: bold;
 }
 
 .icon {
   display: flex;
+  align-items: center;
 }
 
 .btn {
-    margin-left: 1rem;
-    border: solid 1px red;
-    border-radius: 1px;
-    background-color: red;
-    color: white;
-    cursor: pointer;
-    padding: .8rem;
-    font-family: roboto;
-    font-weight: 600;
+  margin-left: 0.8rem;
+  padding: .5rem;
+  width: 159px;
+  border: solid 1px red;
+  border-radius: 1px;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  font-family: roboto;
+  font-weight: 400;
 }
