@@ -30,3 +30,7 @@ Este projeto é um desafio proposto na plataforma de cursos da DIO (Digital Inno
 - [Liste aqui quaisquer próximos passos que você pretende implementar no projeto, como adicionar rotas, tornar o projeto dinâmico, etc.]
 - Contribuindo
 - Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bug ou melhoria para o projeto, por favor, abra uma issue ou envie uma solicitação de pull request. ;) 
+
+
+## Link do Figma:
+ - https://www.figma.com/design/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0-1&t=dokUKWL8A05DC8OM-0
