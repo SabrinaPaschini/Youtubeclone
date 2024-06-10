@@ -27,8 +27,7 @@ Este projeto é um desafio proposto na plataforma de cursos da DIO (Digital Inno
 2.Acesso à Aplicação: Abra o navegador e acesse o endereço http://localhost:4200/ para visualizar a aplicação.
 
 ## Próximos Passos
-- [Liste aqui quaisquer próximos passos que você pretende implementar no projeto, como adicionar rotas, tornar o projeto dinâmico, etc.]
-- Contribuindo
+
 - Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bug ou melhoria para o projeto, por favor, abra uma issue ou envie uma solicitação de pull request. ;) 
 
 

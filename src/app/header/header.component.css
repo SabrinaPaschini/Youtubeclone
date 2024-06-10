@@ -6,8 +6,6 @@
   flex-direction: row;
   align-self: flex-start;
   gap: 2rem;
-  
-  
 }
 
 #myself {
@@ -30,7 +28,6 @@
 }
 
 .txt1 {
- 
   flex-grow: 1;
 
   text-align: center;
